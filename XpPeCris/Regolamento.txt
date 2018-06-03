@@ -4,9 +4,9 @@ REGOLAMENTO TEAMSPEAK 3
 
 Tutti le persone che frequentano questo TeamSpeak sono calorosamente tenuti a rispettare questo regolamento. (STAFFER COMPRESI)
 
-L'ADMIN SUPREMO si riserva il diritto di apportare modifiche al regolamento e prendere provvedimenti nella maniera più corretta.
+LO STAFF si riserva il diritto di apportare modifiche al regolamento (con le opportune modifiche e verifiche dell'ADMIN SUPREMO ove servisero) e prendere provvedimenti nella maniera più corretta.
 
-La Legge Non Ammette Ignoranza
+La Legge tuttavia Non Ammette Ignoranza, quindi leggi molto bene le seguenti regole per non essere allontanato dal ts
 
 1. Vietato minacciare GRAVEMENTE una persona e importunarla continuamente, la persona coinvoltá potrá chiedere aiuto allo staff per risolvere
 
@@ -32,6 +32,9 @@ La Legge Non Ammette Ignoranza
 
 12. Vietato urlare tenere quando possibile un tono di voce adeguato
 
+13. Vietato usare molteplici identità per accedere al ts almeno che non richiesto dallo staff
+
+
 Come procedere ad una segnalazione allo staff
 
 
@@ -45,5 +48,6 @@ La segnalazione dovrà avvenire entro 1 giorno dall’accaduto ed è richiesta u
 
 OGNI REGOLA NON RISPETTATA COMPORTA UN BAN o UN CARTELLINO (giallo o rosso) DA PARTE DELLO STAFF,  MENTRE SE VERRANNO RISPETTATE NEL CORSO DEL TEMPO E DIVENTERETE PERSONE FIDATE SI APPLICA IL PERMESSO "UTENTE VERIFICATO"
 
+Tuttavia lo STAFF HA SEMPRE RAGIONE almeno che non si presenti una prova in cui vi sia stato un ban ingiusto da parte dello staff, la prova potrebbe essere video (registrazione) o immagine (screen)
 
 Le regole con il simbolo * se infrante costituiscono il BAN PERMANENT
