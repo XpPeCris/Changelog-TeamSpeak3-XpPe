@@ -1,8 +1,8 @@
 Errorlog TeamSpeak3 XpPe
 ====================
----Data---
+03/06/18
 ====================
 
-•  ---Errore---- 
+•  Rilevato errore di testo nella descrizione del canale "Staff TS", nella parte moderatori
 
 ====================
