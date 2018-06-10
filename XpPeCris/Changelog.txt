@@ -1,5 +1,11 @@
 Changelog TeamSpeak3 XpPe
 ====================
+10-06-2018
+====================
+
+•  Fix Errore di testo nella descrizione del canale "Staff TS", nella parte moderatori (se visualizzavi la descrizione da un cellulare)
+
+====================
 29-05-2018
 ====================
 
