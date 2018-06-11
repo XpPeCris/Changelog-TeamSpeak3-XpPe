@@ -13,7 +13,7 @@
 
 [*]6. Se lo staff ha dei problemi puó bypassare la richiesta di accesso alle stanze (SOLO IN CASO DI PROBLEMI)
 
-[*]7. Lo staff é tenuto a seguire le riunioni del ts (che verranno programmate dagl'admin o dal founder ed vengono scritte nella descrizione della stanza "riunione ts") senza insultare, se uno staffer non c'é all'orario stabilito si comincia anche senza di lui (dopo 3 assenze di fila viene tolto il ruolo da staffer), l'assenza viene segnata su un foglio di carta reale e SOLO dagl'admin o founder  
+[*]7. Lo staff é tenuto a seguire le riunioni del ts (che verranno programmate dagl'admin o dal founder ed vengono scritte nella descrizione della stanza "riunione ts") senza insultare, se uno staffer non c'é all'orario stabilito può richiedere di cambiare l'orario della riunione, se l'orario proposto non accorda con gli altri membri dello staff allora si procederà con l'orario prestabilito senza la persona impossibilitata(dopo 3 assenze di fila viene tolto il ruolo da staffer), l'assenza viene segnata su un foglio di carta reale e SOLO dagl'admin o founder  
 
 [*] 8. NON modificare l'ordine dei canali (i canali sopratutto quelli dello staff sono stati catalogati per grado dello staff e servono per trovare meglio lo staff) 
 
