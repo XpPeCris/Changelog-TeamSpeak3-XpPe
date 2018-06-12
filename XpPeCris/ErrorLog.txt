@@ -3,6 +3,8 @@ Errorlog TeamSpeak3 XpPe
 
 ====================
 
+12/6/18
 
+- Ironage non può entrare nella stanza move e probabilmente in nessun altra stanza. Presumo sia colpa del permesso Ironage.
 
 ====================
