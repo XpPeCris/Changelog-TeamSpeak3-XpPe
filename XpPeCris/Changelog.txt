@@ -1,5 +1,13 @@
 Changelog TeamSpeak3 XpPe
 ====================
+13-06-2018
+====================
+
+• Fix Problema: Impossibilità di Ironage entrare nella stanza move e in nessun altra stanza. A causa del permesso Ironage.
+
+====================
+
+====================
 10-06-2018
 ====================
 
