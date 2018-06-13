@@ -3,14 +3,4 @@ Errorlog TeamSpeak3 XpPe
 
 ====================
 
-12/6/18
-
-- Ironage non può entrare nella stanza move e probabilmente in nessun altra stanza. Presumo sia colpa del permesso Ironage.
-
-====================
-
-13/6/18
-
-- L'ip per entrare nel teamspeak: experienceclan.trinityhosting.net non funziona. Presumo l'abbiamo disattivato.
-
 ====================
