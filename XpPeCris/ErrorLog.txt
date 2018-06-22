@@ -1,5 +1,8 @@
 Errorlog TeamSpeak3 XpPe
 ====================
+22/06/18
+
+La descrizione della stanza GIOCO GRATIS non funziona. Consiglio di eliminarla.
 
 ====================
 
