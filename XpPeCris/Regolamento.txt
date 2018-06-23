@@ -20,7 +20,7 @@ La Legge tuttavia Non Ammette Ignoranza, quindi leggi molto bene le seguenti reg
 
 6. Vietato divulgare dati sensibili di altre persone senza il loro consenso (IP,Password,Codice Fiscale, Ecc.)
 
-7. Vietato passare link pirata o/e con le seguenti estensioni (o simili): https://goo.gl/ o http://bit.ly/  
+7. Vietato passare link pirata, di tipo pornografico,  o/e con le seguenti estensioni (o simili): https://goo.gl/ o http://bit.ly/  
 
 8. Vietato utilizzare l'username di default o inserire username di altre persone fingendosi esse
 
@@ -34,6 +34,11 @@ La Legge tuttavia Non Ammette Ignoranza, quindi leggi molto bene le seguenti reg
 
 13. Vietato usare molteplici identità per accedere al ts almeno che non richiesto dallo staff
 
+14. Gli utenti "normal" possono creare stanze temporanee tuttavia per queste stanze É VIETATO utilizzare nomi offensivi, o di tipo pornografico ecc.
+
+15. Chiedere al CHANNEL ADMIN prima di mettere Musica o Altro
+
+
 
 Come procedere ad una segnalazione allo staff
 
@@ -46,7 +51,9 @@ La segnalazione dovrà avvenire entro 1 giorno dall’accaduto ed è richiesto u
 [*]Nel caso invece di una infrazione verbale si dovrà procedere con una segnalazione verbale.
 La segnalazione dovrà avvenire entro 1 giorno dall’accaduto ed è richiesta una registrazione (data solo allo STAFF e non é pubblicabile altrimenti si incorre nel ban permanent) 
 
-OGNI REGOLA NON RISPETTATA COMPORTA UN BAN o UN CARTELLINO (giallo o rosso) DA PARTE DELLO STAFF,  MENTRE SE VERRANNO RISPETTATE NEL CORSO DEL TEMPO E DIVENTERETE PERSONE FIDATE SI APPLICA IL PERMESSO "UTENTE VERIFICATO"
+[*]Nel caso non ci fosse lo staff premere tasto destro sulla persona coinvolta ----> Make a Complaint ------> (e nella finestra che vi esce scrivere la regola non rispettata o l'accaduto)
+
+OGNI REGOLA NON RISPETTATA COMPORTA UN BAN DA PARTE DELLO STAFF,  MENTRE SE VERRANNO RISPETTATE NEL CORSO DEL TEMPO E DIVENTERETE PERSONE FIDATE SI APPLICA IL PERMESSO "UTENTE VERIFICATO"
 
 Tuttavia lo STAFF HA SEMPRE RAGIONE almeno che non si presenti una prova in cui vi sia stato un ban ingiusto da parte dello staff, la prova potrebbe essere video (registrazione) o immagine (screen)
 
