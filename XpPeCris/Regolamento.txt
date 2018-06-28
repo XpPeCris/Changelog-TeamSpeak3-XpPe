@@ -8,54 +8,55 @@ LO STAFF si riserva il diritto di apportare modifiche al regolamento (con le opp
 
 La Legge tuttavia Non Ammette Ignoranza, quindi leggi molto bene le seguenti regole per non essere allontanato dal ts
 
-1. Vietato minacciare GRAVEMENTE una persona e importunarla continuamente, la persona coinvoltá potrá chiedere aiuto allo staff per risolvere = BAN da  a
+1✦. Vietato minacciare GRAVEMENTE una persona e importunarla continuamente, la persona coinvoltá potrá chiedere aiuto allo staff per risolvere = BAN Min. 12 Ore, Max. 5 Giorni 
 
-2. Vietato registrare senza il consenso della/e persona/e interessate a meno che non si difenda un proprio diritto = BAN da  a 
+2☠.Vietato registrare senza il consenso della/e persona/e interessate a meno che non si difenda un proprio diritto = BAN 2 Settimane 
 
-3. Vietato l'utilizzo di IP modificati senza il permesso dello staff = BAN del IP in questione e BAN da  a  
+3➤. Vietato l'utilizzo di IP modificati senza il permesso dello staff = BAN del IP in questione e BAN Min. 1 Ora, Max. 4 Giorni
 
-4. Vietato l'utilizzo di programmi/plugin per la modifica della voce senza autorizzazione dello staff = BAN da  a
+4➤. Vietato l'utilizzo di programmi/plugin per la modifica della voce senza autorizzazione dello staff = BAN Min. 2 Ore, Max. 1 Giorno
 
-5. Vietato l'utilizzo della SoundBoard o programmi simili per infastidire; si DEVE chiedere il permesso dell'CHANNEL ADMIN se la si vuole utilizzare = BAN da  a
+5➤. Vietato l'utilizzo della SoundBoard o programmi simili per infastidire; si DEVE chiedere il permesso dell'CHANNEL ADMIN se si vuole utilizzare soundboard o mettere musica = BAN Min. 1 Ora, Max. 1 Giorno
 
-6. Vietato divulgare dati sensibili di altre persone senza il loro consenso (IP,Password,Codice Fiscale, Ecc.) = BAN PERMA
+6☠. Vietato divulgare dati sensibili di altre persone senza il loro consenso (IP,Password,Codice Fiscale, Ecc.) = BAN 2 Settimane
 
-7. Vietato passare link pirata, di tipo pornografico,  o/e con le seguenti estensioni (o simili): https://goo.gl/ o http://bit.ly/ = BAN da 1 ora a
+7☠. Vietato passare link pirata, di tipo pornografico, contenti virus, link di Phishing o/e con le seguenti estensioni (o simili): https://goo.gl/ o http://bit.ly/ = BAN Min. 3 Giorni, Max. 2 Settimane 
 
-8. Vietato utilizzare l'username di default o inserire username di altre persone fingendosi esse = BAN dell'identitá e BAN da 2 ORE a
+8✦. Vietato passare link di tipo pornografico = Ban Min 1 Giorni Max. 5 Giorni 
 
-9. Vietato mettere avatar offensivi, disturbanti, sessualmente epliciti, e se minori di 16 anni vietato mettere foto personali = BAN da 5 minuti a
+9➤. Vietato utilizzare l'username di default o inserire username di altre persone fingendosi esse = BAN dell'identitá e BAN Min. 1 Giorno, Max. 1 Settimana
 
-10. Vietato parlare o scrivere in altre lingue/dialetti al di fuori dell'italiano nelle stanze pubbliche, in modo da essere comprensibili a tutti. Sono escluse, ovviamente, le persone madrelingua che non comprendono l'italiano, le quali sono autorizzate ad usare l'inglese. 
+10✦. Vietato mettere avatar offensivi, disturbanti, sessualmente epliciti, e se minori di 15 anni vietato mettere foto personali = BAN Min. 8 Ore, Max. 1 Settimana 
 
-11. Vietato spostarsi continuamente nei canali e abusare dei poke o dei messaggi = BAN da 1 ORA a
+11➤. Vietato parlare o scrivere in altre lingue/dialetti al di fuori dell'italiano nelle stanze pubbliche, in modo da essere comprensibili a tutti. Sono escluse, ovviamente, le persone madrelingua che non comprendono l'italiano, le quali sono autorizzate ad usare l'inglese. 
 
-12. Vietato urlare tenere quando possibile un tono di voce adeguato = BAN di 4 ORE
+12➤. Vietato spostarsi continuamente nei canali e abusare dei poke o dei messaggi = BAN Min. 1 Ora, Max. 1 Giorno
 
-13. Vietato usare molteplici identità per accedere al ts almeno che non richiesto dallo staff = BAN dell'identitá e BAN da 2 ORE a
+13➤. Vietato urlare tenere quando possibile un tono di voce adeguato = BAN Min. 3 Ore, Max. 1 Giorno 
 
-14. Gli utenti "normal" possono creare stanze temporanee tuttavia per queste stanze É VIETATO utilizzare nomi offensivi, o di tipo pornografico ecc. = BAN da 10 Minuti a
+14➤. Vietato usare molteplici identità per accedere al ts almeno che non richiesto dallo staff = BAN dell'identitá e BAN Min. 30 Minuti, Max. 4 Ore
 
-15. Chiedere al CHANNEL ADMIN prima di mettere Musica o Altro = BAN da 2 Minuti a 1 ORA
+15➤. Gli utenti "normal" possono creare stanze temporanee tuttavia per queste stanze É VIETATO utilizzare nomi offensivi, o di tipo pornografico ecc. = BAN Min. 10 Minuti, Max. 4 Ore
 
-16. É vietato fare "Complaint" Troll o Fake = BAN da 3 minuti a 1 ORA 
-
+16➤. É vietato fare "Complaint" "Reclamo" Troll o Fake = BAN Min. 10 Minuti, Max 3 Ore
 
 Come procedere ad una segnalazione allo staff
 
-
 Andare nella stanza "segnalazione" e:
 
-[*]Nel caso di una infrazione scritta si dovrà procedere con una segnalazione scritta.
-La segnalazione dovrà avvenire entro 1 giorno dall’accaduto ed è richiesto uno Screen ( * lo SCREEN poi deve essere invitato per MESSAGGIO PRIVATO ad un membro dello STAFF) dell’intera finestra di TeamSpeak 3 contenente la parte interessata 
+Nel caso di una infrazione scritta si dovrà procedere con una segnalazione con "screen"
+La segnalazione dovrà avvenire entro 1 giorno dall’accaduto ed è richiesto uno Screen, lo SCREEN poi deve essere invitato per MESSAGGIO PRIVATO ad un membro dello STAFF e deve contenere l’intera finestra di TeamSpeak con la parte interessata 
 
-[*]Nel caso invece di una infrazione verbale si dovrà procedere con una segnalazione verbale.
-La segnalazione dovrà avvenire entro 1 giorno dall’accaduto ed è richiesta una registrazione (data solo allo STAFF e non é pubblicabile altrimenti si incorre nel ban permanent) 
+Nel caso invece di una infrazione verbale si dovrà procedere con una segnalazione con "registrazione".
+La segnalazione dovrà avvenire entro 1 giorno dall’accaduto ed è richiesta una registrazione (data solo allo STAFF e non é pubblicabile altrimenti si incorre nel ban permanent)
 
-[*]Nel caso non ci fosse lo staff premere tasto destro sulla persona coinvolta ----> Make a Complaint ------> (e nella finestra che vi esce scrivere la regola non rispettata o l'accaduto)
+Nel caso non ci fosse lo staff premere tasto destro sulla persona coinvolta ----> Make a Complaint ------> (e nella finestra che vi esce scrivere la regola non rispettata o l'accaduto)
 
 OGNI REGOLA NON RISPETTATA COMPORTA UN BAN DA PARTE DELLO STAFF,  MENTRE SE VERRANNO RISPETTATE NEL CORSO DEL TEMPO E DIVENTERETE PERSONE FIDATE SI APPLICA IL PERMESSO "UTENTE VERIFICATO"
 
-Tuttavia lo STAFF HA SEMPRE RAGIONE almeno che non si presenti una prova in cui vi sia stato un ban ingiusto da parte dello staff, la prova potrebbe essere video (registrazione) o immagine (screen)
+Tuttavia lo STAFF HA SEMPRE RAGIONE almeno che non si presenti una prova concreta, in cui vi sia stato un ban ingiusto, la prova potrebbe essere video (registrazione) o immagine (screen)
 
-Le regole con il simbolo * se infrante costituiscono il BAN PERMANENT
+Tutte le regole dopo i seguenti BAN causano un PERMA BAN:
+Le regole con ☠ causano un PERMA BAN dopo aver avuto 1 BAN Temporaneo in precedenza con lo stesso simbolo
+Le regole con ✦ causano un PERMA BAN dopo aver avuto 2 BAN Temporanei in precedenza con lo stesso simbolo
+Le regole con ➤causano un PERMA BAN dopo aver avuto 4 BAN Temporanei in precedenza con lo stesso simbolo
