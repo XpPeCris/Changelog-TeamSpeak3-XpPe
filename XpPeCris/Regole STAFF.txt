@@ -1,20 +1,14 @@
 
-[*]0. Lo staff é tenuto a seguire sia questo regolamento che quello pubblico del ts ogni regola non rispettata verrá bannato o ammunito con la stella di infrazione (verde,gialla,rossa in questo ordine) dopo 3 stelle si toglie il grado da staffer (vedi fondo regole per maggiori dettagli)
+0. Lo staff é tenuto a seguire sia questo regolamento che quello pubblico del ts ogni regola non rispettata verrá bannato
 
-[*]1.* Non bannare a random ma secondo il regolamento
+1. Non dare il verificato a random, la persona deve dimostrare di rispettare il regolamento ed di essere affidabile ed é VIETATO darlo ad una persona con 3 BAN dal TS registrati.
 
-[*]2. Non dare il verificato a random, la persona deve dimostrare di rispettare il regolamento ed di essere affidabile ed é VIETATO darlo ad una persona con 3 BAN dal TS registrati.
+2. Non disturbare gli utenti ovunque siano, e non giocare con i permessi (togliere e mettere, sostare nelle stanze ecc.)
 
-[*]3. Durante le discussioni o i litigi, dare la giusta punizione ad entrambi le parti
+3. Se lo staff ha dei problemi puó bypassare la richiesta di accesso alle stanze (SOLO IN CASO DI PROBLEMI)
 
-[*]4. Non disturbare gli utenti ovunque siano, e non giocare con i permessi (togliere e mettere, sostare nelle stanze ecc.)
+4. Lo staff é tenuto a seguire le riunioni del ts (che verranno programmate dagl'admin o dal founder ed vengono scritte nella descrizione della stanza "riunione ts") senza insultare, se uno staffer non c'é all'orario stabilito può richiedere di cambiare l'orario della riunione, se l'orario proposto non accorda con gli altri membri dello staff allora si procederà con l'orario prestabilito senza la persona impossibilitata(dopo 3 assenze di fila viene tolto il ruolo da staffer), l'assenza viene segnata su un foglio di carta reale e SOLO dagl'admin o founder  
 
-[*]5. Evitare di insultare (lo staff deve dimostrare rispetto verso tutti)
+5. Avvertire l'admin o il founder nel "changelog.txt" per ogni cambiamento apportato al TS, eccetto l'applicazione dei permessi agli utenti
 
-[*]6. Se lo staff ha dei problemi puó bypassare la richiesta di accesso alle stanze (SOLO IN CASO DI PROBLEMI)
-
-[*]7. Lo staff é tenuto a seguire le riunioni del ts (che verranno programmate dagl'admin o dal founder ed vengono scritte nella descrizione della stanza "riunione ts") senza insultare, se uno staffer non c'é all'orario stabilito può richiedere di cambiare l'orario della riunione, se l'orario proposto non accorda con gli altri membri dello staff allora si procederà con l'orario prestabilito senza la persona impossibilitata(dopo 3 assenze di fila viene tolto il ruolo da staffer), l'assenza viene segnata su un foglio di carta reale e SOLO dagl'admin o founder  
-
-[*] 8. NON modificare l'ordine dei canali (i canali sopratutto quelli dello staff sono stati catalogati per grado dello staff e servono per trovare meglio lo staff) 
-
-Se lo staff commette degli errori e vengono segnalati al founder o admin (o eseguiti davanti a lui) potrebbe ricevere una stella di infrazione (verde,gialla,rossa in questo ordine) dopo 3 stelle si toglie il grado da staffer, le regole invece con l'asterisco * comportano la rimozione istantanea dal grado.
+Se lo staff commette degli errori e vengono segnalati al founder o admin (o eseguiti davanti a lui) puó ricevere un reclamo da parte di quest'ultimi.
