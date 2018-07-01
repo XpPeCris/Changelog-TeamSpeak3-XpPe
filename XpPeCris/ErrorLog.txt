@@ -2,7 +2,7 @@ Errorlog TeamSpeak3 XpPe
 ====================
 1/07/18
 
-Cancellare permessi di LIOH, Normal, Porcus e Aryx.
+L'utente JohnnyStekketto non può accedere al suo ufficio.
 
 ====================
 
