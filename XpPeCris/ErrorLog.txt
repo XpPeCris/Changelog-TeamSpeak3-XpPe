@@ -1,8 +1,6 @@
 Errorlog TeamSpeak3 XpPe
 ====================
-1/07/18
 
-L'utente JohnnyStekketto non può accedere al suo ufficio.
 
 ====================
 
