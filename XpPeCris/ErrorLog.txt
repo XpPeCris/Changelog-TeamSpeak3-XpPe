@@ -2,7 +2,9 @@ Errorlog TeamSpeak3 XpPe
 ====================
 3/7/18
 
-Chiavi per entrare nei canali non funzionati, almeno per l'ufficio di MaskedGibbon6
+- Chiavi per entrare nei canali non funzionati, almeno per l'ufficio di MaskedGibbon6
+
+- Stanza Benvenuti non avverte dell'autokick.
 ====================
 
 ====================
